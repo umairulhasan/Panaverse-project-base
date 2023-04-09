@@ -1,0 +1,1 @@
+console.log("This is niode js code no need of browser")
