@@ -1,7 +1,7 @@
 {
-  "name": "nodejspractice",
+  "name": "nodejsexpress",
   "version": "1.0.0",
-  "description": "for demo node js",
+  "description": "for Express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "express": "^4.18.2"
   }
 }
